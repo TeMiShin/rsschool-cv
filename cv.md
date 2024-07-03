@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Tatiana Shinkarenko
 
 [rsschool-cv](https://temishin.github.io/rsschool-cv/)
@@ -35,22 +36,19 @@ Focused on user comfort. Thrives on solving unsolvable problems.
 
 *Figma
 *Git, gitHub
-\*Node.js
+*Node
 
 ---
 
 ## Experience
 
 #### Freelance Commercial Experience
-
 Сarried out orders for website development
-
 #### Assistance in Commercial Web Project
-
 Edited the website layout
 
 ---
 
 ## Code Example
 
-const arr = Array.from({length:5}, () => Math.floor(Math.random() \* 100));
+const arr = Array.from({length:5}, () => Math.floor(Math.random()*100));
