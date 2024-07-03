@@ -11,6 +11,7 @@
 
 *Email: temi.shin@outlook.com
 *GitHub: [TeMiShin](https://temishin.github.io/rsschool-cv/)
+*Discord: temi.shin
 
 ---
 
